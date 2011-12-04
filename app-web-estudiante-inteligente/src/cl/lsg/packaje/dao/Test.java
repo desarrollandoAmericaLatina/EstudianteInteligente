@@ -13,7 +13,7 @@ public class Test implements Controller {
 	public ModelAndView handleRequest(HttpServletRequest arg0,
 			HttpServletResponse arg1) throws Exception {
 			System.out.println("IdTipoMensaje: " );
-			System.out.println("SMensaje agarra esto y esto otro!!!!!: " );
+			System.out.println("aers----SMensaje agarra esto y esto otro!!!!!: " );
 		return null;
 	}
 
