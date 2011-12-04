@@ -1,4 +1,4 @@
-package leo;
+package cl.lsg.estudianteinteligente.junar;
 
 
 import java.io.IOException;

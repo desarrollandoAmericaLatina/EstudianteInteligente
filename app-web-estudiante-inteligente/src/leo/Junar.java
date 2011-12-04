@@ -4,6 +4,8 @@ import java.io.IOException;
 
 import org.apache.http.client.ClientProtocolException;
 
+import cl.lsg.estudianteinteligente.junar.DataStream;
+
 public class Junar {
 	
 	
