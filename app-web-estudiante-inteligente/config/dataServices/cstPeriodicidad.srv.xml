@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service className="cl.lsg.appmensajeria.campana.dao.beans.CstPeriodicidad" id="srvRescataPeriodicidad"
+	type="jdbc" catalog="Internet" schema="dbo" name="usp_getPeriodicidad"
+	parserClass="cl.lsg.services.v2.parser.xml.JdbcXmlParser">
+	<view>
+		<input/>
+		<output>
+			<field name="idPeriodicidad" position="1"
+				className="java.lang.Short" />
+			<field name="sPeriodicidad" position="2" length="50"
+				className="java.lang.String" />
+			<field name="iPeriodicidad" position="3"
+				className="java.lang.Short" />
+		</output>
+	</view>
+</service>
+

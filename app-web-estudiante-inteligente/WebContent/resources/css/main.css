@@ -1,0 +1,37 @@
+.label{	text-align: right;	margin-right:10px;}
+.select-form{ width: 200px; }
+.letra-gruesa {font-weight: bold}
+.letra-gruesa-centrada {font-weight: bold; text-align: center;}
+.TABLEFORM{	-webkit-box-shadow: 2px 2px 0px #E6DED3;	-moz-box-shadow: 2px 2px 0px #E6DED3;}
+.TABLEFORM td{	white-space: nowrap;}
+.buttons{text-align: center;}
+input.inputError{border: solid 1px red;}
+span.inputError{color: red;}
+.ipInput { text-align: center;}
+.trdark { FONT-SIZE: 8pt; COLOR: #3d3a36; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 20pt; BACKGROUND-COLOR: #e6ded3}
+.trclear { FONT-SIZE: 8pt; COLOR: #3d3a36; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 20pt; BACKGROUND-COLOR: #ebe4da}
+.TABLEINFO table {width:100%; border-collapse:collapse;}
+p.botonera {text-align: center;}
+.eibsbtn
+{
+    BORDER-RIGHT: 0pt;
+    BORDER-TOP: 0pt;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+ //FCI   background-color: #ffffff;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url("../images/eibs_buttons.gif");
+	text-align: center;
+    TEXT-TRANSFORM: lowercase;
+    BORDER-LEFT: 0pt;
+    WIDTH: 84px;
+    CURSOR: hand;
+    COLOR: #ffffff;
+    BORDER-BOTTOM: 0pt;
+    FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif;
+    HEIGHT: 32px
+}
+
+.msg-error{text-align: center; font-weight: bolder; font-size: large;}
+h3{text-transform: capitalize;}
