@@ -13,6 +13,10 @@ public class Test extends SimpleFormController {
 			HttpServletResponse arg1) throws Exception {
 			System.out.println("IdTipoMensaje: " );
 			System.out.println("aers----SMensaje agarra esto y esto otro!!!!!: " );
+			
+			
+			
+			
 		return null;
 	}*/
 
